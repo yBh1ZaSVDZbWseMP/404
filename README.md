@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Capriola&size=35&duration=4000&pause=450&color=F70069&background=FFFFAA00&center=true&random=false&width=600&height=100&lines=ELVARETTA STORE AUTOSCRIPT !;Explore the world of features!" /></p>
+<img src="https://readme-typing-svg.demolab.com?font=Capriola&size=35&duration=4000&pause=450&color=F70069&background=FFFFAA00&center=true&random=false&width=600&height=100&lines=AUTOSCRIPT !;Explore the world of features!" /></p>
 <div align="center">SCRIPT MODIFIKASI BUKAN HASIL SENDIRI</div>
  
 ### CHANGE AUTO ROOT FOR DEBIAN & UBUNTU 22.04 THANKS FOR MAINTEBOT
