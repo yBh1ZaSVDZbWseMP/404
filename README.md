@@ -58,4 +58,4 @@
 
 ### CONTACT
 <a href="https://t.me/budi_spielberg" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a>     <a href="https://wa.me/6285173028866" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Whatsapp&label=Whatsapp&message=Click%20Here&color=green"></a><br>
-![Elvaretta Store](https://github.com/elvaretta-store/v3.0lts/assets/152579113/d3cc9d4c-4fae-4563-9a27-1611187a1c3f)
+
